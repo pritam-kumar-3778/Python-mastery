@@ -1,0 +1,4 @@
+Google Collab
+=============
+- Google Colaboratory, or Colab, is an as-a-service version of Jupyter Notebook that enables you to write and execute Python code through your browser.
+- It doesn't require any local software intallation.
